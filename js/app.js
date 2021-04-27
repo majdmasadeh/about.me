@@ -10,7 +10,7 @@ if(age ==='y')
 }else{console.log('go to kids part');
 }
 
-let question1=prompt('Is Majd an Endineer ? (yes/y or no/n)').toLowerCase();
+let question1=prompt('Is Majd an Engineer ? (yes/y or no/n)').toLowerCase();
 console.log(question1);
 if (question1==='yes' || question1==='y')
 {alert('Correct Ans.');}
